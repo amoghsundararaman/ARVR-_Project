@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BaseUnityTheme">
+    </style>
+    <style name="GvrDialogTheme">
+    </style>
+    <style name="NoSystemUI">
+    </style>
+    <style name="UiButton">
+        <item name="android:background">@drawable/rippleable</item>
+        <item name="android:padding">9dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="UnityThemeSelector">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="UnityThemeSelector.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="VrActivityTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

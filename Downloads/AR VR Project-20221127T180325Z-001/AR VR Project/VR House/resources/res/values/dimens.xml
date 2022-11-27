@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alignment_marker_height">24mm</dimen>
+    <dimen name="alignment_marker_thickness">2dp</dimen>
+    <dimen name="transition_bottom_bar_height">56dp</dimen>
+</resources>
